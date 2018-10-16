@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+GDCdata
+MANIFEST.txt
+*cache*.RData
+data/
+*.Rproj
+inst/doc
+*.tar.gz
+vignettes/*.rda
+.build.timestamp
+*.csv

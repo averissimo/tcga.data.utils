@@ -1,0 +1,22 @@
+Package: tcga.data.utils
+Title: Utility functions to tcga data packages from averissimo/tcga.data
+Version: 1.0
+Authors@R: person("André", "Veríssimo", email = "andre.verissimo@tecnico.ulisboa.pt", role = c("aut", "cre"))
+Description: Utility functions to tcga data packages from averissimo/tcga.data,
+             such as building list of matrices and building assays
+Depends:
+    R (>= 3.3.2)
+License: GPL-3
+Imports: Biobase,
+    SingleCellExperiment,
+    MultiAssayExperiment,
+    dplyr,
+    futile.logger,
+    TCGAutils
+Encoding: UTF-8
+LazyData: true
+Suggests: TCGAbiolinks,
+    knitr,
+    rmarkdown
+RoxygenNote: 6.1.0
+VignetteBuilder: knitr

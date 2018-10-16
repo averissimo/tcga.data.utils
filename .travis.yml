@@ -1,0 +1,16 @@
+language: R
+sudo: false
+cache: packages
+r_packages:
+- covr
+- devtools
+- roxygen2
+- BiocManager
+bioc_required: true
+bioc_check: true
+r:
+- bioc-release
+- bioc-devel
+warnings_are_errors: false
+env: _R_CHECK_CRAN_INCOMING_=FALSE
+
