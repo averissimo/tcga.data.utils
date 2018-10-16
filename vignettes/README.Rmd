@@ -2,9 +2,9 @@
 title: "TCGA.DATA.UTILS R Package"
 output:
   github_document:
-    toc: yes
+    toc: no
   rmarkdown::html_vignette:
-    toc: yes
+    toc: no
 vignette: >
   %\VignetteIndexEntry{Vignette Title}
   %\VignetteEngine{knitr::rmarkdown}

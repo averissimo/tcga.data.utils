@@ -1,8 +1,6 @@
 TCGA.DATA.UTILS R Package
 ================
 
--   [Ackowledgements](#ackowledgements)
-
 > R-package that contains functions used by tcga.data from averissimo/tcga.data releases
 
 Ackowledgements
