@@ -1,6 +1,6 @@
 Package: tcga.data.utils
 Title: Utility functions to tcga data packages from averissimo/tcga.data
-Version: 1.0
+Version: 1.0.1
 Authors@R: person("André", "Veríssimo", email = "andre.verissimo@tecnico.ulisboa.pt", role = c("aut", "cre"))
 Description: Utility functions to tcga data packages from averissimo/tcga.data,
              such as building list of matrices and building assays
